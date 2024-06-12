@@ -1,10 +1,6 @@
-![image](https://github.com/MuhammadRaheelNaseem/QRcode-Generator/assets/63813881/cbb5c64f-e2db-4c1b-802f-b8c423dd838d)# Generating Stylish QR Codes with Python
-
-This repository demonstrates how to generate QR codes with various styles using Python. QR codes can be customized with different module drawers and color masks to achieve unique appearances.
-
 ## Overview
 
-QR (Quick Response) codes are two-dimensional barcodes that store data in a matrix pattern of black squares on a white background. This repository provides Python scripts to generate QR codes with different visual styles, showcasing the versatility of the qrcode library.
+QR (Quick Response) codes are two-dimensional barcodes that store data in a matrix pattern of black squares on a white background.This repository demonstrates how to generate QR codes with various styles using Python. QR codes can be customized with different module drawers and color masks to achieve unique appearances.
 
 ## Table of Contents
 
